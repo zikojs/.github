@@ -1,5 +1,1 @@
-## Welcome to the Zikojs Community👋
-
-<!--
-
--->
+![zikojs community](../assets/community.svg)
