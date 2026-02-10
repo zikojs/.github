@@ -1,1 +1,1 @@
-# .github
+![zikojs community](assets/community.svg)
