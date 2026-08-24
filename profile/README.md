@@ -5,14 +5,30 @@
 At its core is [ziko](https://github.com/zikojs/ziko), the foundation package that provides DOM utilities, math helpers, time tools, routing, and structured patterns for building scalable applications.
 Around it, specialized packages extend ZikoJS into a complete ecosystem : 
 
-- [ziko-server](https://github.com/zikojs/ziko-server)
+- [@zikojs/server](https://github.com/zikojs/server)
 - [zextra](https://github.com/zikojs/zextra)
-- [mdzjs](https://github.com/zikojs/mdzjs)
-- [ziko-jsx](https://github.com/zikojs/ziko-jsx)
-- [zikofy](https://github.com/zikojs/zikofy)
-- [ziko-18n](https://github.com/zikojs/ziko-i18n)
-- [ziko-tgl](https://github.com/zikojs/ziko-tgl)
-- [ziko-lucide](https://github.com/zikojs/ziko-lucide)
+- [@zikojs/mdx](https://github.com/zikojs/mdx)
+- [@zikojs/jsx](https://github.com/zikojs/jsx)
+- [@zikojs.i18n](https://github.com/zikojs/i18n)
 - [ziko-repl](https://github.com/zikojs/ziko-repl)
-- [ziko-wrapper](https://github.com/zikojs/ziko-wrapper)
+- ***Integrations :***
+    - [@zikojs/astro](https://github.com/zikojs/integrations/tree/main/packages/astro)
+    - [@zikojs/react](https://github.com/zikojs/integrations/tree/main/packages/react)
+    - [@zikojs/solid](https://github.com/zikojs/integrations/tree/main/packages/solid)
+    - [@zikojs/svelte](https://github.com/zikojs/integrations/tree/main/packages/svelte)
+    - [@zikojs/vue](https://github.com/zikojs/integrations/tree/main/packages/vue)
+    - [@zikojs/preact](https://github.com/zikojs/integrations/tree/main/packages/preact)
+- ***Addons :***
+   - [@zikojs/three]()
+   - [@zikojs/p5js]()
+   - [@zikojs/chart]()
+   - [@zikojs/lucide](https://github.com/zikojs/addons/tree/main/packages/lucide)
+   - [@zikojs/gsap](https://github.com/zikojs/addons/tree/main/packages/gsap)
+   - [@zikojs/motion]()
+   - [@zikojs/lottie](https://github.com/zikojs/addons/tree/main/packages/lottie)
+   - [@zikojs/atropos](https://github.com/zikojs/addons/tree/main/packages/atropos)
+
 - [numz](https://github.com/zikojs/numz)
+- [ufbr]()
+- [swiper-3d]()
+
