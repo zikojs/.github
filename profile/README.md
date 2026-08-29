@@ -18,7 +18,9 @@ Around it, specialized packages extend ZikoJS into a complete ecosystem :
     - [create-ziko]()
 
 - ***Dev Tools:***
+   - [@zikojs/print]()
    - [@zikojs/repl]()
+   - [@zikojs/notebook]()
 
 - ***Integrations :***
     - [@zikojs/astro](https://github.com/zikojs/integrations/tree/main/packages/astro)
@@ -27,6 +29,7 @@ Around it, specialized packages extend ZikoJS into a complete ecosystem :
     - [@zikojs/svelte](https://github.com/zikojs/integrations/tree/main/packages/svelte)
     - [@zikojs/vue](https://github.com/zikojs/integrations/tree/main/packages/vue)
     - [@zikojs/preact](https://github.com/zikojs/integrations/tree/main/packages/preact)
+    - [@zikojs/inferno](https://github.com/zikojs/integrations/tree/main/packages/inferno)
 
 - ***Addons :***
    - [@zikojs/three]()
