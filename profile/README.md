@@ -21,7 +21,12 @@ Around it, specialized packages extend ZikoJS into a complete ecosystem :
    - [@zikojs/print]()
    - [@zikojs/repl]()
    - [@zikojs/notebook]()
+   - [@zikojs/console]()
 
+- ***Server :***
+    - [@zikojs/server](https://github.com/zikojs/server)
+    - Adapters :
+        - [@zikojs/express](https://github.com/zikojs/server/tree/main/packages/adapters/express)  
 - ***Integrations :***
     - [@zikojs/astro](https://github.com/zikojs/integrations/tree/main/packages/astro)
     - [@zikojs/react](https://github.com/zikojs/integrations/tree/main/packages/react)
@@ -32,15 +37,21 @@ Around it, specialized packages extend ZikoJS into a complete ecosystem :
     - [@zikojs/inferno](https://github.com/zikojs/integrations/tree/main/packages/inferno)
 
 - ***Addons :***
+   - [@zikojs/atropos](https://github.com/zikojs/addons/tree/main/packages/atropos)
+   - [@zikojs/canvas-confetti](https://github.com/zikojs/addons/tree/main/packages/canvas-confetti)
+   - [@zikojs/framer-motion](https://github.com/zikojs/addons/tree/main/packages/framer-motion)
+   - [@zikojs/gsap](https://github.com/zikojs/addons/tree/main/packages/gsap)
+   - [@zikojs/lottie](https://github.com/zikojs/addons/tree/main/packages/lottie)
+   - [@zikojs/mermaid](https://github.com/zikojs/addons/tree/main/packages/mermaid)
+   - [@zikojs/mind-elixir](https://github.com/zikojs/addons/tree/main/packages/mind-elixir)
+   - [@zikojs/p5](https://github.com/zikojs/addons/tree/main/packages/p5)
    - [@zikojs/three]()
-   - [@zikojs/p5js]()
    - [@zikojs/chart]()
    - [@zikojs/code-mirror]()
+- ***Icons :**
    - [@zikojs/lucide](https://github.com/zikojs/addons/tree/main/packages/lucide)
-   - [@zikojs/gsap](https://github.com/zikojs/addons/tree/main/packages/gsap)
-   - [@zikojs/motion]()
-   - [@zikojs/lottie](https://github.com/zikojs/addons/tree/main/packages/lottie)
-   - [@zikojs/atropos](https://github.com/zikojs/addons/tree/main/packages/atropos)
+   - [@zikojs/fa](https://github.com/zikojs/addons/tree/main/packages/fa)
+   - [@zikojs/feather-icons](https://github.com/zikojs/addons/tree/main/packages/feather-icons)
 
 - ***Built on the top of zikojs***
     - [numz](https://github.com/zikojs/numz)
