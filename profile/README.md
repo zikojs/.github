@@ -8,9 +8,6 @@ At its core is [ziko](https://github.com/zikojs/ziko), the foundation package th
 Around it, specialized packages extend ZikoJS into a complete ecosystem : 
 
 - ***Kit :***
-    - [zextra](https://github.com/zikojs/zextra)
-    - [@zikojs/server](https://github.com/zikojs/server) 
-    - [@zikojs/mdx](https://github.com/zikojs/mdx)
     - [@zikojs/jsx](https://github.com/zikojs/jsx)
     - [@zikojs.i18n](https://github.com/zikojs/i18n)
 
@@ -21,7 +18,14 @@ Around it, specialized packages extend ZikoJS into a complete ecosystem :
    - [@zikojs/print]()
    - [@zikojs/repl]()
    - [@zikojs/notebook]()
+     - runtimes :
+         - [@zikojs/notebook-react]()
+         - [@zikojs/notebook-svelte]() 
    - [@zikojs/console]()
+
+- ***Mdx :***
+    - [@zikojs/mdx](https://github.com/zikojs/mdx)
+    - [@zikojs/vite-plugin-mdx](https://github.com/zikojs/mdx/tree/main/packages/vite-plugin-mdx)
 
 - ***Server :***
     - [@zikojs/server](https://github.com/zikojs/server)
@@ -41,7 +45,8 @@ Around it, specialized packages extend ZikoJS into a complete ecosystem :
     - [@zikojs/preact](https://github.com/zikojs/integrations/tree/main/packages/preact)
     - [@zikojs/inferno](https://github.com/zikojs/integrations/tree/main/packages/inferno)
 
-- ***Addons :***
+- ***Components & Addons :***
+   - [zextra](https://github.com/zikojs/zextra)
    - [@zikojs/atropos](https://github.com/zikojs/addons/tree/main/packages/atropos)
    - [@zikojs/canvas-confetti](https://github.com/zikojs/addons/tree/main/packages/canvas-confetti)
    - [@zikojs/framer-motion](https://github.com/zikojs/addons/tree/main/packages/framer-motion)
