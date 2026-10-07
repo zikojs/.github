@@ -7,17 +7,23 @@
 At its core is [ziko](https://github.com/zikojs/ziko), the foundation package that provides DOM utilities, math helpers, time tools, routing, and structured patterns for building scalable applications.
 Around it, specialized packages extend ZikoJS into a complete ecosystem : 
 
-- ***Kit :***
-    - [@zikojs/jsx](https://github.com/zikojs/jsx)
-    - [@zikojs.i18n](https://github.com/zikojs/i18n)
+- ***Core :***
+    - [ziko](https://github.com/zikojs/ziko)
+    - [@zikojs/html](https://github.com/zikojs/ziko/tree/main/packages/ziko-html)
+    - [@zikojs/jsx](https://github.com/zikojs/ziko/tree/main/packages/ziko-jsx)
+    - [@zikojs/i18n](https://github.com/zikojs/i18n)
+    - [@zikojs/keymap]()
 
 - ***Scaffolding :***
     - [create-ziko]()
+    - [scafy]()
 
 - ***Dev Tools:***
-   - [@zikojs/print]()
    - [@zikojs/repl]()
    - [@zikojs/notebook]()
+     - Exports :
+         - [@zikojs/notebook-pdf]()
+         - [@zikojs/notebook-html]()        
      - Runtimes :
          - [@zikojs/notebook-react]()
          - [@zikojs/notebook-svelte]()
@@ -29,6 +35,13 @@ Around it, specialized packages extend ZikoJS into a complete ecosystem :
          - [@zikojs/van-notebook]()
          - [@zikojs/vue-notebook]()
    - [@zikojs/console]()
+       - Integrations :
+         - [@zikojs/preact-console]()
+         - [@zikojs/react-console]()
+         - [@zikojs/solid-console]()
+         - [@zikojs/svelte-console]()
+         - [@zikojs/van-console]()
+         - [@zikojs/vue-console]()
 
 - ***Mdx :***
     - [@zikojs/mdx](https://github.com/zikojs/mdx)
@@ -73,6 +86,8 @@ Around it, specialized packages extend ZikoJS into a complete ecosystem :
 
 - ***Built on the top of zikojs***
     - [numz](https://github.com/zikojs/numz)
-    - [ufbr]()
+    - [ufbr](https://github.com/zakarialaoui10/ufbr)
     - [swiper-3d]()
-
+    - Rehype Plugins :
+      - [rehype-mind-elixir]()
+      - [rehyp-glimpse]()
