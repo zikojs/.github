@@ -26,7 +26,12 @@ Around it, specialized packages extend ZikoJS into a complete ecosystem :
 - ***Server :***
     - [@zikojs/server](https://github.com/zikojs/server)
     - Adapters :
-        - [@zikojs/express](https://github.com/zikojs/server/tree/main/packages/adapters/express)  
+        - [@zikojs/express](https://github.com/zikojs/server/tree/main/packages/adapters/express)
+        - [@zikojs/fastify](https://github.com/zikojs/server/tree/main/packages/adapters/fastify)
+        - [@zikojs/hono](https://github.com/zikojs/server/tree/main/packages/adapters/hono)
+        - [@zikojs/http](https://github.com/zikojs/server/tree/main/packages/adapters/http)
+        - [@zikojs/koa](https://github.com/zikojs/server/tree/main/packages/adapters/koa)
+        - [@zikojs/polka](https://github.com/zikojs/server/tree/main/packages/adapters/polka)  
 - ***Integrations :***
     - [@zikojs/astro](https://github.com/zikojs/integrations/tree/main/packages/astro)
     - [@zikojs/react](https://github.com/zikojs/integrations/tree/main/packages/react)
@@ -48,7 +53,8 @@ Around it, specialized packages extend ZikoJS into a complete ecosystem :
    - [@zikojs/three]()
    - [@zikojs/chart]()
    - [@zikojs/code-mirror]()
-- ***Icons :**
+     
+- ***Icons :***
    - [@zikojs/lucide](https://github.com/zikojs/addons/tree/main/packages/lucide)
    - [@zikojs/fa](https://github.com/zikojs/addons/tree/main/packages/fa)
    - [@zikojs/feather-icons](https://github.com/zikojs/addons/tree/main/packages/feather-icons)
