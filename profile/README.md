@@ -18,9 +18,16 @@ Around it, specialized packages extend ZikoJS into a complete ecosystem :
    - [@zikojs/print]()
    - [@zikojs/repl]()
    - [@zikojs/notebook]()
-     - runtimes :
+     - Runtimes :
          - [@zikojs/notebook-react]()
-         - [@zikojs/notebook-svelte]() 
+         - [@zikojs/notebook-svelte]()
+     - Integrations :
+         - [@zikojs/preact-notebook]()
+         - [@zikojs/react-notebook]()
+         - [@zikojs/solid-notebook]()
+         - [@zikojs/svelte-notebook]()
+         - [@zikojs/van-notebook]()
+         - [@zikojs/vue-notebook]()
    - [@zikojs/console]()
 
 - ***Mdx :***
